@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve --o",
     "build": "ng build",
-    "deploy": "ng deploy --base-href=https://luanagiusto.github.io/bootcamp-dio/",
+    "deploy": "ng deploy --base-href=https://luanagiusto.github.io/bootcamp-DIO-santander-front/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
