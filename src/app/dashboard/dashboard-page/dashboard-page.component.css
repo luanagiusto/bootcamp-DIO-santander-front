@@ -6,3 +6,19 @@
   flex-wrap: wrap;
   justify-content: center;
 }
+
+footer {
+  width: 100%;
+  font-size: 12px;
+  font-weight: 600;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: flex-end;
+  color: rgb (109, 109, 109);
+  padding-right: 10px;
+}
+
+footer span {
+  color: var(--primary-color);
+}
